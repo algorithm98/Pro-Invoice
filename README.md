@@ -12,6 +12,17 @@ Built with simplicity and scalability in mind, it enables professionals to handl
 
 ⸻
 
+
+
+
+<img width="502" height="726" alt="Screenshot 2026-04-21 at 12 27 36 PM" src="https://github.com/user-attachments/assets/240c0e31-b042-4ec5-9b23-aa477e5ca516" />
+
+<img width="1912" height="1027" alt="Screenshot 2026-04-21 at 12 27 05 PM" src="https://github.com/user-attachments/assets/762bb948-e4cf-4f1a-a21e-3f7249d1b875" />
+
+
+
+
+
 🎯 The Problem
 
 Traditional invoicing methods:
